@@ -1,4 +1,4 @@
 local Games = {
-    [4483381587] = "loadstring url",
+    [4483381587] = "https://raw.githubusercontent.com/DylZZZ/Testing/main/GameOne",
 }
 return Games
