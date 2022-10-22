@@ -1,0 +1,4 @@
+local Games = {
+    [4483381587] = "loadstring url",
+}
+return Games
